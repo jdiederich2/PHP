@@ -1,0 +1,7 @@
+Berber:5.99
+Shag:3.25
+Astroturf:9.25
+Plush:1.50
+Commercial:2.00
+Loop Pile:2.50
+Rug:4.00
